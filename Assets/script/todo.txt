@@ -1,0 +1,4 @@
+ideas:
+- health bar (player)
+- new item (ranged?)
+- boss fight
